@@ -7,8 +7,8 @@
 git clone https://github.com/mikelasry/VayyarEx.git
 
 ### Running the project
-cd VayyarEx
-python ./solution.py
+- cd VayyarEx
+- python ./solution.py
 
 ### General Info
 The project is divided to different files
